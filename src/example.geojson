@@ -1,0 +1,20 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "属性1": "阳光100城市广场",
+                "属性2": 100,
+                "属性3": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    108.342704,
+                    22.809005
+                ]
+            }
+        }
+    ]
+}
